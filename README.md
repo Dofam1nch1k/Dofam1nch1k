@@ -8,6 +8,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
+<a href="https://github.com/Dofam1nch1k/rustdesk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rustdesk-dark.svg"><img src="assets/project-rustdesk-light.svg" width="49%" alt="rustdesk"></picture></a>&nbsp;<a href="https://github.com/rustdesk/rustdesk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rustdesk-dark.svg"><img src="assets/project-rustdesk-light.svg" width="49%" alt="rustdesk"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
