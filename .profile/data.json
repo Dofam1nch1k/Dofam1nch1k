@@ -1,8 +1,8 @@
 {
- "key": "e2be4328",
+ "key": "e2778476",
  "stars": 0,
- "contributions": 7,
- "repos": 2,
+ "contributions": 14,
+ "repos": 3,
  "followers": 0,
  "languages": [],
  "days": [
@@ -102,17 +102,21 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 8,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
-  "longest": 1
+  "current": 2,
+  "longest": 2
  },
  "pins": [
   {
@@ -129,7 +133,7 @@
    "url": "https://github.com/rustdesk/rustdesk",
    "text": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
    "fork": false,
-   "stars": 129206,
+   "stars": 129224,
    "language": "Rust",
    "topics": [
     "remote-control",
@@ -146,6 +150,15 @@
   }
  ],
  "all": [
+  {
+   "name": "doc.rustdesk.com",
+   "url": "https://github.com/Dofam1nch1k/doc.rustdesk.com",
+   "text": "Document of RustDesk",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
   {
    "name": "Dofam1nch1k",
    "url": "https://github.com/Dofam1nch1k/Dofam1nch1k",
