@@ -1,5 +1,5 @@
 {
- "key": "9b7281f4",
+ "key": "166d954c",
  "stars": 0,
  "contributions": 35,
  "repos": 4,
@@ -104,9 +104,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
@@ -129,7 +133,7 @@
    "url": "https://github.com/rustdesk/rustdesk",
    "text": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
    "fork": false,
-   "stars": 130278,
+   "stars": 130335,
    "language": "Rust",
    "topics": [
     "remote-control",
